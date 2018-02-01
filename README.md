@@ -8,16 +8,16 @@ Overview
 
 The goal of packages-report is to explore the packages in my R installation.
 
-I have 845 add-on packages installed.
+I have 74 add-on packages installed.
 
 Here's how they break down in terms of which version of R they were built under, which is related to how recently they were updated on CRAN.
 
 | Built |    n|  prop|
 |:------|----:|-----:|
-| 3.4.0 |  484|  0.57|
-| 3.4.1 |  103|  0.12|
-| 3.4.2 |  100|  0.12|
-| 3.4.3 |  158|  0.19|
+| 3.4.0 |   31|  0.42|
+| 3.4.1 |   13|  0.18|
+| 3.4.2 |   10|  0.14|
+| 3.4.3 |   20|  0.27|
 
 ![](figs/built-barchart.png)
 
